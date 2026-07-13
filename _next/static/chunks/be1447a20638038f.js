@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,2477,e=>{"use strict";let{withContext:t,PropsProvider:i}=(0,e.i(52887).createRecipeContext)({key:"heading"}),o=t("h2");e.s(["Heading",()=>o,"HeadingPropsProvider",()=>i])}]);
